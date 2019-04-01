@@ -38,7 +38,7 @@ Python
 
 C
 
->- [morris worm](https://github.com/arialdomartini/morris- worm)
+>- [morris worm](https://github.com/arialdomartini/morris-worm)
 >- [cpuminer](https://github.com/jgarzik/cpuminer)
 
 PowerShell
@@ -49,7 +49,7 @@ PowerShell
 Metasploit
 
 >- [EternalBlue](https://github.com/w0rtw0rt/EternalBlue)
->- [metasploit autopwn](https://github.com/hahwul/metasploit- autopwn)
+>- [metasploit autopwn](https://github.com/hahwul/metasploit-autopwn)
 
 
 Tools
