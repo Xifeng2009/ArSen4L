@@ -1,0 +1,9 @@
+__pycache__/
+.idea/
+desktop.ini
+D-Codes/
+Scripts/
+Exploits/
+WebShells/
+WordLists/
+Tools/
