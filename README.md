@@ -92,6 +92,7 @@ Botnet
 
 Bypass
 
+>- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 >- [bypass_waf](https://github.com/3xp10it/bypass_waf)
 >- [WhatWaf](https://github.com/Ekultek/WhatWaf)
 
